@@ -106,6 +106,7 @@ const Contact = () => {
     <>
      <Head>
         <title>Contact</title>
+        <link key="icon" rel="icon" href="/icon.png" />
       </Head>
     <Layout>
       <Nav />

@@ -30,6 +30,7 @@ const About = () => {
     <>
       <Head>
         <title>About</title>
+        <link key="icon" rel="icon" href="/icon.png" />
       </Head>
       <Layout className="about">
         <Nav />

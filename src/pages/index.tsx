@@ -15,6 +15,7 @@ const Home = () => {
     <>
       <Head>
         <title>Matvii Ivanov</title>
+        <link key="icon" rel="icon" href="/icon.png" />
       </Head>
       <Layout>
         <ParticlesContainer />
