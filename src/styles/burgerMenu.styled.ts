@@ -18,8 +18,7 @@ export const List = styled.div`
   top: 0;
   transition: transform 0.3s ease-in;
   padding-top: 60px;
-  background-color: transparent;
-  backdrop-filter: blur(90px);
+  background-color: #272727;
   z-index: 35;
 
   &.open {
@@ -35,6 +34,6 @@ export const Row = styled.div`
   border-bottom: 1px solid white;
   padding: 15px 0 5px 2%;
   font-size: 1.2em;
-  color: #fff;
+  color: #ECE6DB;
   text-transform: uppercase;
 `;

@@ -284,6 +284,10 @@ export const ButtonsWrapper = styled.div`
   align-items: center;
   margin: 20px 130px 0;
   gap: 2%;
+
+  @media (max-width: 768px) {
+    margin-bottom: 20px;
+  }
 `;
 export const Button = styled.button`
   width: 40%;
